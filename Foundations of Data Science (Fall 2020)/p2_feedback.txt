@@ -1,0 +1,38 @@
+# Repository M49-FDS20 Practical 2
+
+## Task Naive Bayes: 7.5/10
+
+2.5 points deducted -- NB: Wrong implementation for CatFeatureParam features
+
+## Task Experiments: 2.0/2
+
+The implementation of the experiment function is OK
+
+## Task Experiment IRIS: 3.0/3
+
+Experiment Iris is OK
+
+## Task Experiment Voting: 3.0/3
+
+Experiment Voting is OK
+
+## Task Experiment Car: 3.0/3
+
+Experiment Car is OK
+
+## Task Experiment Cancer: 3.0/3
+
+Experiment Cancer is OK
+
+## Task Experiment Ionosphere: 3.0/3
+
+Experiment Ionospher is OK
+
+## Task Experiment Sonar: 3.0/3
+
+Experiment Sonar is OK
+
+Overall: 27.5/30
+
+
+

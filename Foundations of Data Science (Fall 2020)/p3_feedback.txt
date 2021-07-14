@@ -1,0 +1,21 @@
+# Repository M49-FDS20 Practical 3
+
+## Task 1. ANN: 15.0/15
+
+Correct submission for Task 1.
+
+(Task 1) Very long and detailed report, with many insights and citations! The students used hyperparameter grid search. One peculiarity of their solution is the usage of a cyclic learning rate: "However, we decide to further tune this hyperparameter by following the approach proposed by Smith (2017). He argues that using a cyclical learning rate can additionally increase model performance as it changes parameters within a pre-defined interval according to some cycles. The idea of introducing a cyclical learning rate is to use a learning rate parameter which changes in magnitude for each cycle to gradually converge to an optimal rate such that training time and model accuracy can be improved. CLR means that the learning rate transgresses within a pre-defined interval." Sounds very interesting.
+
+
+## Task 2. Transfer Learning: 25.0/25
+
+Correct submission for Task 2.
+
+(Task 2) A good report, detailing very well what they did and why, although possibly with some reasoning leaps. They make the following claim regarding upscaling the images (after a very detailed discussion): "One intuition behind this result might be that an increased pixel size has a greater initial resolution. Since we work with an enhanced image classification dataset consisting of many nuanced characteristics, a greater pixel size could cause a better resolution as the convolution is able to depict a bigger amount of individual features the images contain." - this is not quite right. They later mention how 84x84 images seem to still work, this is interesting.
+
+
+
+The marks are based on the accuracy of the models and the quality of the reports. 
+
+Overall: 40.0/40
+
